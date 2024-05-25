@@ -15,6 +15,7 @@ Non-primitive => types which rae composition of other types
 // Number => Represents any numerical Value
 let num = 123
 
+
 // String => Repersents a series of characters enclosed in quotes
 let str = "String"
 
